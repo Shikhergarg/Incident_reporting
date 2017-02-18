@@ -1,0 +1,12 @@
+{
+    "name": "shikhergarg/incident-reporting",
+    "description": "incident reporting",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shikher garg",
+            "email": "gauravjp50@gmail.com"
+        }
+    ],
+    "require": {}
+}
